@@ -33,3 +33,8 @@ This project is a Java console-based Log File Analyzer that reads a log file and
 ## ▶ How to Run
 1. Place `log.txt` in the project folder  
 2. Compile:
+
+---
+
+## 👨‍💻 Author
+Developed by Monty
